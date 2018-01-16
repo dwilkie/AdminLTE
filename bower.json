@@ -1,5 +1,5 @@
 {
-  "name": "admin-lte",
+  "name": "dwilkie-admin-lte",
   "homepage": "https://adminlte.io",
   "authors": [
     "Abdullah Almsaeed <abdullah@almsaeedstudio.com>"
@@ -31,7 +31,7 @@
     "documentation"
   ],
   "dependencies": {
-    "bootstrap-slider": "*",
+    "bootstrap-slider": "10.0.0",
     "chart.js": "1.0.*",
     "ckeditor": "^4.7.0",
     "bootstrap-colorpicker": "^2.5.1",
